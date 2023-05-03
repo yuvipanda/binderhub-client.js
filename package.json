@@ -1,8 +1,8 @@
 {
   "name": "binderhub-client",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Simple API client for the BinderHub EventSource API",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yuvipanda/binderhub-client.js.git"
