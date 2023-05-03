@@ -1,0 +1,19 @@
+{
+  "name": "binderhub-client",
+  "version": "0.2.0",
+  "description": "Simple API client for the BinderHub EventSource API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvipanda/binderhub-client.js.git"
+  },
+  "author": "Yuvi Panda",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/yuvipanda/binderhub-client.js/issues"
+  },
+  "homepage": "https://github.com/yuvipanda/binderhub-client.js#readme",
+  "dependencies": {
+    "event-source-polyfill": "^1.0.31"
+  }
+}
